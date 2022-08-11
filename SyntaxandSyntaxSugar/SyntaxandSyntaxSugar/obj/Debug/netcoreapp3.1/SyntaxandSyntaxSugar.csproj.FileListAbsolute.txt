@@ -1,0 +1,14 @@
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.exe
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.deps.json
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.runtimeconfig.json
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.runtimeconfig.dev.json
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.dll
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.pdb
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.AssemblyInfo.cs
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.dll
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.pdb
+C:\Users\hall_\OneDrive\Desktop\repos\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\SyntaxandSyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxandSyntaxSugar.genruntimeconfig.cache
